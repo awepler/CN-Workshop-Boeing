@@ -33,4 +33,4 @@ This one day hands-on classroom style session will provide developers with hands
 3:45 PM - 4:30 PM::
   * Session 8: link:presentations/Session_8_Circuit_Breaker.pptx[_Spring Cloud Netflix - Circuit Breakers_]
   * Lab 6: link:labs/lab06/lab06.adoc[Microservice Fault Tolerance with Circuit Breakers]
-4:30 PM:: Wrap-Up and Closing
+3:15 PM - 3:30 PM:: Wrap-Up and Closing
